@@ -1,0 +1,44 @@
+.sessao__texto__normal {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+.sessao__texto__com__imagem {
+    background-attachment: fixed;
+    background-color: rgb(73, 73, 73);
+    background-size: cover;
+    box-shadow: inset 6px 6px 13px 0px rgba(41, 41, 41, 0.753);
+    color: rgb(255, 255, 255);
+}
+
+#sessao__texto__com__imagem-1 {
+    background-image: url(../imagens/background001.jpg);
+    background-position: right center;
+}
+
+#sessao__texto__com__imagem-2 {
+    background-image: url(../imagens/background002.jpg);
+    background-position: right center;
+}
+
+.sessao__texto__normal__paragrafo {
+    margin: 2.5rem;
+    padding-bottom: 1rem;
+}
+
+
+.sessao__texto__com__imagem__paragrafo {
+    background-color: rgba(32, 32, 32, 0.575);
+    border-radius: 0.5rem;
+    display: inline-block;
+    margin: 1rem;
+    padding: 1.5rem;
+    text-shadow: 1.5px 1.5px 0px rgb(0, 0, 0);
+}
+
+@media screen and (min-width: 768px) {
+    .sessao__texto__normal,
+    .sessao__texto__com__imagem {
+        font-size: 2rem;
+    }
+}
