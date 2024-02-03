@@ -13,10 +13,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="projeto Cordel Moderno" src=".github/preview.png">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
