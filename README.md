@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"> <a href="https://naykyroliveira.github.io/projeto-cordel/" target="_blank">Cordel Moderno</a> </h1>
 
 <p align="center">
@@ -25,9 +26,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
+Projeto do Cordel de Milton Duarte
+
 Este é um projeto desenvolvido durante o curso de HTML5 e CSS3 do Curso em Vídeo. O site apresenta uma coleção de poemas de Milton Duarte, apresentados de uma maneira visualmente agradável e fácil de navegar.
 
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+=======
+
+
+>>>>>>> 04ccd8dc713cd0f25c004aadeda927cfc1195268
